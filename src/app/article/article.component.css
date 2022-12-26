@@ -1,0 +1,13 @@
+.allcontainer {
+    display: flex;
+    width: 100%;
+}
+
+.four {
+    width: 16%;
+}
+
+.twelve {
+    width: auto;
+    margin-left: 20px;
+}
